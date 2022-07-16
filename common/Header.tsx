@@ -1,8 +1,5 @@
-// import styled from 'styled-components';
 // import { signInWithPopup, signOut } from 'firebase/auth';
 // import { auth, AuthContext, githubProvider } from '../../utils/firebase';
-// import { useContext, useState } from 'react';
-// import { FlexBox } from 'styles/theme';
 
 export const Header = () => {
   // const user = useContext(AuthContext);

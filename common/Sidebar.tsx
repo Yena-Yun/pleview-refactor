@@ -8,7 +8,7 @@ export const Sidebar = () => {
           <img src='/images/logo.png' alt='logo' />
         </Link>
         <Link href='/'>
-          <h1 className='text-3xl text-blue-600 font-bold font-serif mt-4'>
+          <h1 className='text-3xl  text-white font-bold font-serif mt-4'>
             Pleview
           </h1>
         </Link>
