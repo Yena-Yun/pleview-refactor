@@ -1,4 +1,9 @@
 # 테오 스프린트 프로젝트 Pleview 리팩토링
-1. 기술스택 변경
-  React + Typescript + styled-components ---> Next.js + Typescript + tailwind
-2. 기능 추가
+
+## 개선 계획
+* React -> Next.js로 주요 기술스택 변경
+* styled-components -> tailwind로 css 스택 변경
+* 파이어베이스에 작성된 코드리뷰 등록 기능
+* 피드 페이지 카드 필터 기능
+* 중복되는 코드 모듈화, 여러 일을 하는 함수 추상화
+* 명예의 전당 (랭킹 시스템)
